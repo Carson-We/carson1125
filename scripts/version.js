@@ -1,0 +1,1 @@
+document.getElementById("version").textContent = "v0.1.0.0（100030324b）";
